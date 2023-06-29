@@ -6,10 +6,12 @@
 </a>
 
 ---
+<a href="https://github.com/mateus-aleixo">
+  <img height=175 width=840 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusaleixo&layout=compact&theme=tokyonight&bg_color=00000000" />
+</a>
+
+---
 
 <a href="https://github.com/mateus-aleixo">
-  <img height=150 width=420 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</a>
-<a href="https://github.com/mateus-aleixo">
-  <img height=150 width=420 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusaleixo&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img height=175 width=840 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </a>
