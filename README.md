@@ -13,5 +13,5 @@
 --->
 
 <a href="https://github.com/mateus-aleixo">
-  <img DISABLED-height=175 DISABLED-width=840 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img height=175 width=840 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </a>
