@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 June 2023 - To: 31 July 2024
+From: 28 June 2023 - To: 01 August 2024
 
-Total Time: 758 hrs 50 mins
+Total Time: 401 hrs 33 mins
 
-Python             313 hrs 3 mins  >>>>>>>>>>---------------   39.10 %
-OCaml              70 hrs 40 mins  >>-----------------------   08.83 %
-C++                65 hrs 2 mins   >>-----------------------   08.12 %
-Java               57 hrs 20 mins  >>-----------------------   07.16 %
-Dart               53 hrs 26 mins  >>-----------------------   06.68 %
+Python             156 hrs 59 mins >>>>>>>>>----------------   37.78 %
+OCaml              47 hrs 40 mins  >>>----------------------   11.47 %
+Dart               36 hrs 56 mins  >>-----------------------   08.89 %
+Java               30 hrs 42 mins  >>-----------------------   07.39 %
+C++                25 hrs 12 mins  >>-----------------------   06.06 %
 ```
 
 <!--END_SECTION:waka-->
