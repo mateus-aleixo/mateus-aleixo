@@ -28,7 +28,13 @@ Also here:
 <!--START_SECTION:waka-->
 
 ```rust
-Python                653 hrs 24 mins       >>>>>>>>>>>>>>>----------   59.41 %
+Total Time: 1,065 hrs 34 mins
+
+Python                654 hrs 20 mins       >>>>>>>>>>>>>>>----------   59.28 %
+Markdown              64 hrs 13 mins        >------------------------   05.82 %
+OCaml                 53 hrs 42 mins        >------------------------   04.87 %
+Text                  39 hrs 14 mins        >------------------------   03.55 %
+Other                 38 hrs 11 mins        >------------------------   03.46 %
 ```
 
 <!--END_SECTION:waka-->
