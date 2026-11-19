@@ -12,7 +12,7 @@ I'm finishing an MSc in Data Science at the University of Aveiro, where I'm also
 
 ## Papers and talks
 
-- M. Aleixo and E. Rocha, *A Hybrid Soft-Computing Decision-Support System for Injection-Mould Quotation*, CONTROLO 2026, Coimbra, Portugal. Peer-reviewed and presented; IEEE Xplore, to appear.
+- M. Aleixo and E. Rocha, *A Hybrid Soft-Computing Decision-Support System for Injection-Mould Quotation*, CONTROLO 2026, Coimbra, Portugal. [doi:10.1109/controlo67943.2026.11772144](https://doi.org/10.1109/controlo67943.2026.11772144)
 - M. Aleixo and E. Rocha, *A Machine Learning System for Manufacturing Time Estimation in Injection Mold Production*, talk at DII 2026.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-aleixo/).
